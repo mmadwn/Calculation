@@ -1,0 +1,10 @@
+D:\Tugas Kuliah\Semester 2\Tugas Praktikum\Tugas Akhir\TugasAkhir_P.BiayaRakitPC_21120118120009\TugasAkhir_P.BiayaRakitPC_21120118120009\obj\Debug\TugasAkhir_P.BiayaRakitPC_21120118120009.csprojAssemblyReference.cache
+D:\Tugas Kuliah\Semester 2\Tugas Praktikum\Tugas Akhir\TugasAkhir_P.BiayaRakitPC_21120118120009\TugasAkhir_P.BiayaRakitPC_21120118120009\obj\Debug\TugasAkhir_P.BiayaRakitPC_21120118120009.Form1.resources
+D:\Tugas Kuliah\Semester 2\Tugas Praktikum\Tugas Akhir\TugasAkhir_P.BiayaRakitPC_21120118120009\TugasAkhir_P.BiayaRakitPC_21120118120009\obj\Debug\TugasAkhir_P.BiayaRakitPC_21120118120009.Properties.Resources.resources
+D:\Tugas Kuliah\Semester 2\Tugas Praktikum\Tugas Akhir\TugasAkhir_P.BiayaRakitPC_21120118120009\TugasAkhir_P.BiayaRakitPC_21120118120009\obj\Debug\TugasAkhir_P.BiayaRakitPC_21120118120009.csproj.GenerateResource.cache
+D:\Tugas Kuliah\Semester 2\Tugas Praktikum\Tugas Akhir\TugasAkhir_P.BiayaRakitPC_21120118120009\TugasAkhir_P.BiayaRakitPC_21120118120009\obj\Debug\TugasAkhir_P.BiayaRakitPC_21120118120009.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\Semester 2\Tugas Praktikum\Tugas Akhir\TugasAkhir_P.BiayaRakitPC_21120118120009\TugasAkhir_P.BiayaRakitPC_21120118120009\bin\Debug\TugasAkhir_P.BiayaRakitPC_21120118120009.exe.config
+D:\Tugas Kuliah\Semester 2\Tugas Praktikum\Tugas Akhir\TugasAkhir_P.BiayaRakitPC_21120118120009\TugasAkhir_P.BiayaRakitPC_21120118120009\bin\Debug\TugasAkhir_P.BiayaRakitPC_21120118120009.exe
+D:\Tugas Kuliah\Semester 2\Tugas Praktikum\Tugas Akhir\TugasAkhir_P.BiayaRakitPC_21120118120009\TugasAkhir_P.BiayaRakitPC_21120118120009\bin\Debug\TugasAkhir_P.BiayaRakitPC_21120118120009.pdb
+D:\Tugas Kuliah\Semester 2\Tugas Praktikum\Tugas Akhir\TugasAkhir_P.BiayaRakitPC_21120118120009\TugasAkhir_P.BiayaRakitPC_21120118120009\obj\Debug\TugasAkhir_P.BiayaRakitPC_21120118120009.exe
+D:\Tugas Kuliah\Semester 2\Tugas Praktikum\Tugas Akhir\TugasAkhir_P.BiayaRakitPC_21120118120009\TugasAkhir_P.BiayaRakitPC_21120118120009\obj\Debug\TugasAkhir_P.BiayaRakitPC_21120118120009.pdb
