@@ -1,4 +1,4 @@
-# PC Cost Calculator 
+# PC Build Master
 The application is designed to help users calculate the cost of building a PC by inputting various components such as the CPU, GPU, motherboard, and more. The application provides an easy-to-use interface and calculates the total cost in real-time, allowing users to make informed decisions when building their PC. With its intuitive design and useful functionality, this application is a must-have tool for anyone looking to build a PC.
 
 # Features
