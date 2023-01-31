@@ -21,5 +21,5 @@ The application is designed to help users calculate the cost of building a PC by
 # Contribution
 Feel free to contribute to this project by opening a pull request or reporting an issue.
 
-License
+# License
 This project is licensed under the terms of the MIT license.
